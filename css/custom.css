@@ -1,0 +1,200 @@
+.carousel-caption{
+    background-color: rgba(0, 0, 0.5);
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.team .col-lg-4 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.section-divider{
+    margin: 3rem 0;
+}
+
+
+.footer-section{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+@media (min-width: 1200px) {
+    .feature-heading {
+        margin-top: 10rem;
+    }
+}
+
+@media (max-width: 540px) {
+    .carouselImg {
+        display: none;
+    }
+    
+    .team {
+        margin-top: 2rem;
+    }
+}
+
+
+
+
+
+
+
+
+p{
+    line-height: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+#menu{
+    background-color: whitesmoke;
+    height: 100px;
+}
+
+#menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu a{
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 100px;
+    color: #ffffff;
+    
+    padding: 0 40px;
+    border: none;
+    display: block;
+}
+
+#menu a{
+    background-color: lightblue;
+}
+
+
+
+#header{
+    padding: 60px 0px 40px 0;
+    background-color: white;
+    text-align: center;
+}
+
+#header h1{
+    letter-spacing: 0.1em;
+    font-size: 44px;
+    color: #ffffff;
+}
+
+#header p{
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+
+
+#banner{
+    height: 300px;
+}
+
+#banner img{
+    width: 60%;
+    height: 300px;
+    padding-left: 200px;
+}
+
+
+
+#page{
+    min-height: 400px;
+    padding: 20px;
+}
+
+#page h2{
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    color: orangered;
+}
+
+#content{
+    float: left;
+    width: 70%;
+}
+
+#box1{
+    float: left;
+    width: 30%;
+    padding-right: 30px;
+}
+
+
+#box3{
+    float: right;
+    width: 30%;
+    padding-left: 30px;
+}
+
+
+#Gallery img{
+	width:300px;
+	margin:12px;
+}
+
+
+#products img{
+    width: 370px;
+    margin: 12pxp;
+    padding-left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+#copyright{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    background-color: orangered;
+    padding-top: 55px;
+    clear: both;
+}
+
+#copyright p{
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+
+
+
